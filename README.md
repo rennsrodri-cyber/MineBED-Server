@@ -1,2 +1,2 @@
-# Mine-Server
+# Minecraft-Server
 jajsakak
