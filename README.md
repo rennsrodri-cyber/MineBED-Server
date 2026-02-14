@@ -1,2 +1,2 @@
-# MineBED-Server
+# Mine-Server
 jajsakak
